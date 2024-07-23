@@ -12,3 +12,9 @@ practice4:
 Create routing for the above website.
 For example, the message "Hello Web Application" should be displayed in localhost300/. In localhost 300/about display the message "About Me" and 3 other items as desired. In addition, if a request is sent from a URL other than these, the message "Not Found" will be displayed.
 =================================================================================================================
+practice5:
+Create a standard HTML file that contains the message "Hello Web Application" in the h1 tag. Then, using the http module, read the information inside it, send it to the server and display it on the client.
+=================================================================================================================
+practice6:
+Send one of the front templates that you have already created, which includes a photo, a CSS file, and a JS file, through the server and display it in the client section.
+================================================================================================================
